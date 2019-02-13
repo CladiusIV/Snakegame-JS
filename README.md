@@ -1,4 +1,4 @@
 Another SnakeGame (WIP)
-Snake game made with the library P5.JS using JavaScript.
+Game made with the library P5.JS.
 
 Known bugs list: Not initializing?
